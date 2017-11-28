@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit" value="name:kd_poli;datatype:int,name:nm_poli;datatype:string,name:lantai;datatype:int" />
+</info>

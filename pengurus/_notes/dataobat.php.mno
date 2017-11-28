@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil" value="name:kd_obat;datatype:int,name:nm_obat;datatype:string,name:jml_obat;datatype:int" />
+</info>

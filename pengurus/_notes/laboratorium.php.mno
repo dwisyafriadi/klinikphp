@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_nomorrekam" value="name:no_rm;datatype:int,name:kd_tindakan;datatype:int,name:kd_obat;datatype:int,name:kd_user;datatype:int,name:no_pasien;datatype:int,name:diagnosa;datatype:string,name:resep;datatype:string,name:keluhan;datatype:string,name:tgl_pemeriksaan;datatype:date,name:ket;datatype:blob" />
+</info>

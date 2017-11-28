@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil" value="name:kd_tindakan;datatype:int,name:nm_tindakan;datatype:string,name:ket;datatype:blob" />
+</info>

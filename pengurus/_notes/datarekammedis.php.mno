@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rekammedistampil" value="name:no_rm;datatype:int,name:no_pasien;datatype:int,name:diagnosa;datatype:string,name:tgl_pemeriksaan;datatype:date" />
+	<infoitem key="UD_datarekammedis" value="name:no_rm;datatype:int,name:no_pasien;datatype:int,name:diagnosa;datatype:string,name:tgl_pemeriksaan;datatype:date" />
+</info>

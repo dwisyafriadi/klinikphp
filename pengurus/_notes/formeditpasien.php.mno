@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editdata" value="name:no_pasien;datatype:int,name:nm_pasien;datatype:string,name:j_kel;datatype:string,name:agama;datatype:string,name:alamat;datatype:string,name:tgl_lhr;datatype:date,name:usia;datatype:int,name:no_tlp;datatype:int,name:nm_kk;datatype:string,name:hub_kel;datatype:string,name:foto;datatype:blob" />
+</info>

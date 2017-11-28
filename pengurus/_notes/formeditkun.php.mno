@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pasien" value="name:no_pasien;datatype:int,name:nm_pasien;datatype:string,name:j_kel;datatype:string,name:agama;datatype:string,name:alamat;datatype:string,name:tgl_lhr;datatype:date,name:usia;datatype:int,name:no_tlp;datatype:int,name:nm_kk;datatype:string,name:hub_kel;datatype:string,name:foto;datatype:blob" />
+	<infoitem key="UD_poli" value="name:kd_poli;datatype:int,name:nm_poli;datatype:string,name:lantai;datatype:int" />
+	<infoitem key="UD_format" value="name:tgl_kunjungan;datatype:date,name:no_pasien;datatype:int,name:kd_poli;datatype:int,name:jam_kunjungan;datatype:time,name:kd_kunjungan;datatype:int" />
+</info>

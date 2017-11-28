@@ -1,0 +1,8 @@
+.icon_megasoft{
+height:32px;
+width:32px;
+background: url(../favicon2.ico) no-repeat;
+}
+.icon_megasoft:hover{
+background: url(../favicon.ico) no-repeat;
+}

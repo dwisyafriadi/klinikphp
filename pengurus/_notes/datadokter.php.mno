@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil" value="name:kd_dokter;datatype:int,name:tgl_kunjungan;datatype:date,name:nm_dokter;datatype:string,name:sip;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil" value="name:kd_dokter;datatype:int,name:kd_poli;datatype:int,name:tgl_kunjungan;datatype:date,name:kd_user;datatype:int,name:nm_dokter;datatype:string,name:sip;datatype:string,name:tmpat_lhr;datatype:string,name:no_tlp;datatype:string,name:alamat;datatype:string" />
+	<infoitem key="UD_poli" value="name:kd_poli;datatype:int,name:nm_poli;datatype:string,name:lantai;datatype:int" />
+	<infoitem key="UD_user" value="name:kd_user;datatype:int,name:username;datatype:string,name:password;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editrekam" value="name:no_rm;datatype:int,name:kd_tindakan;datatype:int,name:kd_obat;datatype:int,name:kd_user;datatype:int,name:no_pasien;datatype:int,name:diagnosa;datatype:string,name:resep;datatype:string,name:keluhan;datatype:string,name:tgl_pemeriksaan;datatype:date,name:ket;datatype:blob" />
+	<infoitem key="UD_tindakan" value="name:kd_tindakan;datatype:int,name:nm_tindakan;datatype:string,name:ket;datatype:blob" />
+	<infoitem key="UD_obat" value="name:kd_obat;datatype:int,name:nm_obat;datatype:string,name:jml_obat;datatype:int,name:ukuran;datatype:int,name:harga;datatype:int" />
+</info>
